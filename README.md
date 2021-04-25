@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnshuAyush
+- 👋 Hi, I’m @AsterBluem
 - 👀 I’m interested in ML domain
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
