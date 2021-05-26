@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AsterBluem
-- 👀 I’m interested in ML domain
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML domains
+- 👀 I like to make some random things
+- 🌱 I’m currently making some andriod apps
+- 💞️ I’m looking to collaborate on any andriod project
 - 🎥 I'm also a professional Video Editor.
 - 😎 Checkout !! Some of my work https://www.youtube.com/c/Asterbluem/videos
 - 📫 Reach me: asterbleum@gmail.com
