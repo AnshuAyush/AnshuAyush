@@ -1,4 +1,4 @@
-### Hey There !! 👋
+### Hey There !! 🙌
 
 <!--
 **AnshuAyush/AnshuAyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
